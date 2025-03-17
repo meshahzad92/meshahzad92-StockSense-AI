@@ -143,3 +143,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, please open an issue in the repository or contact the maintainers.
+
+## Results:
+This is the sample output attached below.
+![image](https://github.com/user-attachments/assets/a5a35d7d-019b-41a7-b754-3bd2d842b18b)
+![image](https://github.com/user-attachments/assets/4bae9bde-df7a-4808-b85a-f82ba7d613b1)
+![image](https://github.com/user-attachments/assets/f731d265-1711-4eb2-9497-9292a2b994d2)
+
+
+
+
